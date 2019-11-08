@@ -1,4 +1,4 @@
-# humanstxt.operating
+# humanstxt.org
 
 # TEAM
 
@@ -16,3 +16,12 @@
 ## Hosting
 
 (Write where the website is hosted & services)
+
+---
+
+# THANKS
+
+(This is the place where you put sources of things)
+(Locations where you got icons, etc.)
+
+---
