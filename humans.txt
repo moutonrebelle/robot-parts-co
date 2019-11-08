@@ -1,0 +1,18 @@
+# humanstxt.operating
+
+# TEAM
+
+(Write all your team members' information in here)
+(Any format you'd like-I usually use Markdown)
+
+---
+
+# TECHNOLOGY
+
+## Software
+
+(Write what software you're using)
+
+## Hosting
+
+(Write where the website is hosted & services)
